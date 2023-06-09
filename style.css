@@ -1,0 +1,29 @@
+body{
+    background-color: plum;
+}
+h1{
+    text-align: center;
+    color: rgb(36, 22, 36);
+    text-shadow: rgb(116, 23, 116) 2px 2px;
+    font-size: 40px;
+}
+p{
+    font-size: 20px;
+    font-weight: bold;
+    color: rgb(31, 18, 18);
+}
+.ans{
+    color: rgb(19, 19, 87);
+    font-weight: normal;
+}
+pre{
+    color: rgb(9, 54, 17);
+    font-size: 15px;
+}
+hr{
+    height: 2px;
+    background-color: black;
+}
+span{
+    background-color: yellow;
+}
